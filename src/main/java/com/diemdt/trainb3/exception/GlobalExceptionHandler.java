@@ -1,4 +1,4 @@
-package exception;
+package com.diemdt.trainb3.exception;
 
 import com.diemdt.trainb3.dto.ErrorDetails;
 import org.springframework.http.HttpStatus;

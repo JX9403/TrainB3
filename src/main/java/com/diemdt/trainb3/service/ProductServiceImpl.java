@@ -4,7 +4,7 @@ import com.diemdt.trainb3.dto.ProductDTO;
 import com.diemdt.trainb3.mapper.ProductMapper;
 import com.diemdt.trainb3.model.Product;
 import com.diemdt.trainb3.repository.ProductRepository;
-import exception.ResourceNotFoundException;
+import com.diemdt.trainb3.exception.ResourceNotFoundException;
 import jakarta.transaction.Transactional;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
